@@ -52,6 +52,6 @@ var list2 = [1,3,4];
 };
 
 
-mergeTwoLists(list1,list2)
+console.table(mergeTwoLists(list1,list2))
  
 

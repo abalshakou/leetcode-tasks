@@ -10,8 +10,6 @@
          this.next = (next===undefined ? null : next)
       }
   }
- 
-
 
  var list1: ListNode = {val: 1, next: {val: 4, next: {val: 5, next: null}}};
  var list2: ListNode = {val: 1, next: {val: 3, next: {val: 4, next: null}}};

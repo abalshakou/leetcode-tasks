@@ -15,6 +15,6 @@
 
 };
 
-var nums = [1,1,2,3,4,5,5, 5,6,7,8]
+var nums = [1,1,2,3,4,5,5,5,6,7,8]
 
 console.log(removeDuplicates(nums))

@@ -36,7 +36,6 @@ var sortedListToBST = function(nums) {
 
 var head = {val: 1, next: {val: 2, next: {val: 5, next: {val: 8, next: {val: 9, next: null}}}}};
 
-
 function findlength( head)
 {
     var curr = head;

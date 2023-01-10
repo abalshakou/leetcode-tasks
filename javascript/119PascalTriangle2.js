@@ -21,6 +21,6 @@ var getRow = function(rowIndex) {
     return values[rowIndex];
 };
 
-var rowIndex = 5;
+var rowIndex = 7;
 
 console.log(getRow(rowIndex))
